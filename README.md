@@ -1,6 +1,6 @@
 ## Ani-watch Root Page Clone
 
-![Final Result](/next-app/public/final.png)
+![Final Result](/Aniwatch-root-clone/public/final.png)
 
 ### Description
 Ani-watch Root Page Clone project 
